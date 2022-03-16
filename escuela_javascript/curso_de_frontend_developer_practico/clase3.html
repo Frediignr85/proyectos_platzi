@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap" rel="stylesheet">
-    <title>Clase2</title>
+    <title>Clase3</title>
     <style>
          :root {
             --white: #FFFFFF;
@@ -41,13 +41,18 @@
             display: grid;
             grid-template-rows: auto 1fr auto;
             width: 300px;
-            justify-items: center;
         }
         
         .logo {
             width: 150px;
             margin-bottom: 48px;
             justify-self: center;
+            display: none;
+        }
+        
+        .form {
+            display: flex;
+            flex-direction: column;
         }
         
         .title {
@@ -62,7 +67,22 @@
             font-weight: 300;
             margin-top: 0;
             margin-bottom: 32;
-            text-align: center;
+        }
+        
+        .label {
+            font-size: var(--sm);
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+        
+        .input {
+            background-color: var(--text-input-field);
+            border: none;
+            border-radius: 8px;
+            height: 30px;
+            font-size: (--md);
+            padding: 4px;
+            margin-bottom: 12px;
         }
         
         .primary-button {
@@ -79,56 +99,65 @@
         
         .login-button {
             margin-top: 14px;
-            margin-bottom: 30px;
+            margin-bottom: 15px;
         }
         
-        .resend {
+        @media(max-width:640px) {
+            .logo {
+                display: block;
+            }
+        }
+        
+        .forgot {
             text-align: center;
         }
         
-        .resend span {
-            color: var(--veri-light-pink);
-        }
-        
-        .resend a {
+        .forgot a {
+            font-size: var(--sm);
             color: var(--hospital-green);
             text-decoration: none;
         }
         
-        .email-image {
-            width: 132px;
-            height: 132px;
-            border-radius: 50%;
-            background-color: var(--text-input-field);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-bottom: 24px;
+        .secondary-button {
+            background: var(--white);
+            border: 1px solid var(--hospital-green);
+            height: 50px;
+            border-radius: 10px;
+            width: 300px;
         }
         
-        .email-image img {
-            width: 80px;
-            height: 80px;
+        .button-sign-up {
+            bottom: 0;
         }
     </style>
 </head>
 
 <body>
-    <div class="login">
-        <div class="form-container">
-            <img src="./logos/logo_yard_sale.svg" alt="logo" class="logo">
+    <div class="container">
+        <div class="login">
+            <div class="form-container">
+                <img src="./logos/logo_yard_sale.svg" alt="logo" class="logo">
 
-            <h1 class="title">Email has been sent!</h1>
-            <p class="subtitle">Please check your inbox for instructions on how to reset the password</p>
-            <div class="email-image">
-                <img src="./icons/email.svg" alt="">
+
+                <form action="/" class="form">
+                    <label for="email" class="label">Email address</label>
+                    <input type="email" id="email" placeholder="fredy.benitez@salud.gob.sv" class="input input-password">
+
+
+                    <label for="password" class="label">Password</label>
+                    <input type="password" id="password" placeholder="*********" class="input input-password">
+
+                    <input type="submit" value="Log in" class="primary-button login-button">
+                    <p class="forgot">
+                        <a href="/">Forgot my password</a>
+                    </p>
+                </form>
             </div>
-            <button class="primary-button login-button">Login</button>
-            <p class="resend">
-                <span>Didn't recive the email? </span><a href="/">Resend</a>
-            </p>
+            <button class="secondary-button button-sign-up">Sign up</button>
+
         </div>
     </div>
+
 </body>
 
 </html>
