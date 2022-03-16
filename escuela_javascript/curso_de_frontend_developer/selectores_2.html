@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div p{
+            color: brown;
+        }
+        div > div{
+            background: magenta;
+        } 
+        div + section{
+            background: green;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>Hola que tal, hijo direvto</p>
+    </div>
+    <p>Sin estilos</p>
+    <div>
+        <div>
+            <p>Prueba de hijos directos</p>
+            <div>Este no es un hijo directo</div>
+        </div>
+    </div>
+    <section>Prueba de etiquetas adyacentes</section>
+</body>
+</html>
