@@ -30,6 +30,89 @@
     .body {
         margin: 0;
     }
+    
+    .menu {
+        display: none;
+    }
+    
+    .logo {
+        width: 100px;
+    }
+    
+    .navbar-left ul,
+    .navbar-right ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        height: 60px;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 24px;
+        border-bottom: 1px solid var(--veri-light-pink);
+    }
+    
+    .navbar-left {
+        display: flex;
+    }
+    
+    .navbar-left ul li a {
+        text-decoration: none;
+        color: var(--veri-light-pink);
+        border: 1px solid var(--white);
+        padding: 8px;
+        border-radius: 8px;
+    }
+    
+    .navbar-left ul li a:hover {
+        border: 1px solid var(--hospital-green);
+        color: var(--hospital-green);
+    }
+    
+    .navbar-left ul {
+        display: flex;
+        margin-left: 12px;
+    }
+    
+    .navbar-email {
+        color: var(--veri-light-pink);
+        font-size: var(-sm);
+        margin-right: 12px;
+    }
+    
+    .navbar-shopping-cart {
+        position: relative;
+    }
+    
+    .navbar-shopping-cart div {
+        width: 16px;
+        height: 16px;
+        background-color: var(--hospital-green);
+        border-radius: 50%;
+        font-size: var(--sm);
+        font-weight: bold;
+        position: absolute;
+        top: 0;
+        right: -12px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    @media (max-width: 640px) {
+        .menu {
+            display: block;
+        }
+        .navbar-left ul {
+            display: none;
+        }
+        .navbar-email {
+            display: none;
+        }
+    }
 </style>
 
 <body>
@@ -60,11 +143,13 @@
             </ul>
         </div>
         <div class="navbar-right">
-            <li>fredy.benitez@salud.gob.sv</li>
-            <li class="navbar-shopping-cart">
-                <img src="./icons/icon_shopping_cart.svg" alt="shopping cart">
-                <div>2</div>
-            </li>
+            <ul>
+                <li class="navbar-email">fredy.benitez@salud.gob.sv</li>
+                <li class="navbar-shopping-cart">
+                    <img src="./icons/icon_shopping_cart.svg" alt="shopping cart">
+                    <div>2</div>
+                </li>
+            </ul>
         </div>
     </nav>
 </body>
