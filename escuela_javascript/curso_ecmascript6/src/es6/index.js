@@ -117,3 +117,42 @@ const helloPromise = () => {
 helloPromise().then(response => console.log(response))
     .then(() => console.log("HOLA"))
     .catch(error => console.log(error));
+
+/* CLASE 4 */
+/* CLASE 4 */
+/* CLASE 4 */
+
+class calculator {
+    constructor() {
+        this.valueA = 0;
+        this.valueB = 0;
+    }
+
+    sum(valueA, valueB) {
+        this.valueA = valueA;
+        this.valueB = valueB;
+        return this.valueA + this.valueB;
+    }
+}
+
+const calc = new calculator();
+console.log(calc.sum(2, 3));
+
+
+import { hello } from './module';
+hello();
+
+
+function* helloWorld() {
+    if (true) {
+        yield 'Hello, ';
+    }
+    if (true) {
+        yield 'World';
+    }
+}
+
+const generatorHelloi = helloWorld();
+console.log(generatorHelloi.next().value);
+console.log(generatorHelloi.next().value);
+console.log(generatorHelloi.next().value);
