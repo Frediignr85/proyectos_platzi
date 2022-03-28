@@ -29,3 +29,7 @@ console.log(globalThis);
 
 const fooo = 'hola' ? ? 'default string';
 console.log(fooo);
+
+
+const user = {};
+console.log(user ? .profile ? .email);
