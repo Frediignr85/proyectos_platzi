@@ -44,11 +44,24 @@ function area_triangulo_form() {
     console.log("Area: " + area_triangulo2(lado1, lado2));
 }
 
+function area_triangulo_form2() {
+    let lado1 = document.getElementById("lado_triangulo1x").value;
+    let lado2 = document.getElementById("lado_triangulo2x").value;
+    let lado3 = document.getElementById("lado_triangulo3x").value;
+    console.log("Area: " + area_triangulo_heron(lado1, lado2, lado3));
+}
+
 function area_triangulo(base, altura) {
     return (base * altura) / 2;
 }
 const area_triangulo2 = (base, altura) => (base * altura) / 2;
 
+function area_triangulo_heron(lado1, lado2, lado3) {
+    let perimetro_acortado = perimetro_triangulo(lado1, lado2, lado3) / 2;
+    let resultado_multiplicacion = perimetro_acortado * (perimetro_acortado - lado1) * (perimetro_acortado - lado2) * (perimetro_acortado - lado3);
+    let resultado_final = Math.sqrt(resultado_multiplicacion);
+    return resultado_final;
+};
 /* FUNCIONES PARA CALCULAR EL DIAMETRO DE UN CIRCULO */
 function diametro_circulo_form() {
     let radio = document.getElementById("radio_circulo").value;
