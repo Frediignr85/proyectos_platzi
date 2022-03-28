@@ -60,3 +60,60 @@ let team2 = ['Vilder', 'Mario', 'Beatriz'];
 
 let education = ['David', ...team1, ...team2];
 console.log(education);
+
+
+/* CLASE 3 */
+/* CLASE 3 */
+/* CLASE 3 */
+
+let nombre_c3 = 'Fredy';
+let edad_c3 = 24;
+
+/* forma vieja de declarar objetos */
+obj = { nombre_c3: nombre_c3, edad_c3: edad_c3 };
+/* forma nueva de declarar objetos */
+obj2 = { nombre_c3, edad_c3 }
+console.log(obj);
+console.log(obj2);
+
+const names = [{
+        name: "Fredy",
+        age: 24
+    },
+    {
+        name: "Tatiana",
+        age: 25
+    }
+];
+
+let listOfNames = names.map(function(name) {
+    console.log(name.name);
+});
+
+let listOfNames2 = names.map(item => console.log(item.name));
+
+const listOfNames3 = (name, age, country) => {
+    console.log(name);
+    console.log(age);
+    console.log(country);
+}
+const listOfNames4 = name => {
+    console.log(name);
+}
+
+const square = num => num * num;
+
+/* Promesas */
+
+const helloPromise = () => {
+    return new Promise((resolve, reject) => {
+        if (false) {
+            resolve('Hey!');
+        } else {
+            reject('Ups!!');
+        }
+    });
+}
+helloPromise().then(response => console.log(response))
+    .then(() => console.log("HOLA"))
+    .catch(error => console.log(error));
