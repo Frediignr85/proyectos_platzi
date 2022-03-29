@@ -1,0 +1,22 @@
+{
+  "name": "curso_gestion_npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fredy Benitez <fredy.benitez@salud.gob.sv>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "webpack": "^5.70.0"
+  },
+  "devDependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
