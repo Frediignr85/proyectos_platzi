@@ -1,0 +1,152 @@
+drwx------ 2 frediignr frediignr 4.0K feb 11 11:13 Edit · src_Minsal_SiapsBundle_Admin_MntAreaModEstabAdmin.php · sis-180 · SIAP _ siaps · GitLab_files
+drwx------ 3 frediignr frediignr 4.0K may  6 07:53 firefox.tmp
+drwxrwxr-x 3 frediignr frediignr 4.0K abr 21 10:02 alertifyjs
+drwxrwxr-x 3 frediignr frediignr 4.0K abr 25 07:54 framework-4.1.9 (1)
+drwxrwxr-x 3 frediignr frediignr 4.0K mar  3 07:57 ventas
+drwxrwxr-x 3 frediignr frediignr 4.0K mar  4 10:34 EmergenciaBundle (1)
+drwxrwxr-x 4 frediignr frediignr 4.0K abr  7 09:48 calculadora
+drwxrwxr-x 4 frediignr frediignr 4.0K mar 16 09:51 drive-download-20220316T155056Z-001
+drwxrwxr-x 5 frediignr frediignr 4.0K abr 22 07:58 datepicker
+drwxrwxr-x 5 frediignr frediignr 4.0K may 14  2018 web-api-auth-examples-master
+drwxrwxr-x 7 frediignr frediignr 4.0K feb 25 18:51 framework-4.1.9
+drwxrwxr-x 9 frediignr frediignr 4.0K nov 22  2019 fundamentos-node-platzi-master
+drwxr-xr-x 6 frediignr frediignr 4.0K ago 22  2019 font-awesome-4.7.0
+drwxr-xr-x 6 frediignr frediignr 4.0K ene 18 07:48 node-v17.4.0-linux-x64
+-rw-rw-r-- 1 frediignr frediignr  12M ene 26 08:58 linux-headers-5.16.2-051602_5.16.2-051602.202201200936_all (1).deb
+-rw-rw-r-- 1 frediignr frediignr  12M ene 26 08:58 linux-headers-5.16.2-051602_5.16.2-051602.202201200936_all.deb
+-rw-rw-r-- 1 frediignr frediignr  13K may  4 18:20 Rutas 02052022.xlsx
+-rw-rw-r-- 1 frediignr frediignr  13M feb 21 07:56 ventas-master.zip
+-rw-rw-r-- 1 frediignr frediignr  13M may  5 13:31 José Joya CV.pdf
+-rw-rw-r-- 1 frediignr frediignr  14K may  4 15:58 web-api-auth-examples-master.zip
+-rw-rw-r-- 1 frediignr frediignr  14M ene 25 15:12 phpMyAdmin-5.1.2-all-languages.zip
+-rw-rw-r-- 1 frediignr frediignr  15K may  5 13:54 Tranferencias_farmadmin_05_05_2022__02_54_47_PM.ods
+-rw-rw-r-- 1 frediignr frediignr  15M feb 10 15:17 FileZilla_3.57.0_x86_64-linux-gnu.tar.bz2
+-rw-rw-r-- 1 frediignr frediignr  18K mar  3 17:13 SISTEMA DE VENTAS...xlsx
+-rw-rw-r-- 1 frediignr frediignr  19K feb  4 11:45 Perfil Soporte Tecnico y Redes.docx
+-rw-rw-r-- 1 frediignr frediignr  19K feb 14 08:00 HXSZ2Tjr_400x400.jpg
+-rw-rw-r-- 1 frediignr frediignr  19K feb 17 11:04 REPORTES.xlsx
+-rw-rw-r-- 1 frediignr frediignr  19K mar  4 09:37 SISTEMA DE VENTAS..(2).xlsx
+-rw-rw-r-- 1 frediignr frediignr  20K ene 27 09:17 AfpCrecer-Carnet.pdf
+-rw-rw-r-- 1 frediignr frediignr  21K mar  2 09:08 docker-php-fpm-8.1-master.zip
+-rw-rw-r-- 1 frediignr frediignr  21M abr 26 08:52 node-v16.14.2-linux-x64.tar.xz
+-rw-rw-r-- 1 frediignr frediignr  22M ene 26 10:10 node-v17.4.0-linux-x64.tar.xz
+-rw-rw-r-- 1 frediignr frediignr  23K mar 10 16:56 BusquedaMedicamentos_2022-03-10(1).xls
+-rw-rw-r-- 1 frediignr frediignr  23K mar 11 15:35 BusquedaMedicamentos_2022-03-11.ods
+-rw-rw-r-- 1 frediignr frediignr  23K mar 16 09:51 drive-download-20220316T155056Z-001.zip
+-rw-rw-r-- 1 frediignr frediignr  276 mar 11 11:18 reposicion.txt
+-rw-rw-r-- 1 frediignr frediignr  27M feb 15 11:28 crud_productos.mp4
+-rw-rw-r-- 1 frediignr frediignr  28K mar 10 10:04 BusquedaMedicamentos_2022-03-10.ods
+-rw-rw-r-- 1 frediignr frediignr  33K mar 28 07:29 22SD000F213844 - CLIENTE.pdf
+-rw-rw-r-- 1 frediignr frediignr  33M mar  3 07:56 ventas-master (1).zip
+-rw-rw-r-- 1 frediignr frediignr  34K mar  4 10:34 EmergenciaBundle (1).zip
+-rw-rw-r-- 1 frediignr frediignr  37K mar 10 16:38 BusquedaMedicamentos_2022-03-10.xls
+-rw-rw-r-- 1 frediignr frediignr  40K mar 18 07:37 170523_9591_12172011971173_benitez_orellana_fredy_maurici.pdf
+-rw-rw-r-- 1 frediignr frediignr  40M mar 11 10:50 tsetup.3.6.0.tar.xz
+-rw-rw-r-- 1 frediignr frediignr  43K feb 23 06:50 EmergenciaBundle.zip
+-rw-rw-r-- 1 frediignr frediignr  47K feb  8 09:52 FormatoDeMisiónOficial_RRHH.doc
+-rw-rw-r-- 1 frediignr frediignr  52K may  3 16:34 index.yaml
+-rw-rw-r-- 1 frediignr frediignr  55K abr 22 07:58 datepicker.zip
+-rw-rw-r-- 1 frediignr frediignr  55M mar 12 09:33 zoom_amd64.deb
+-rw-rw-r-- 1 frediignr frediignr  58K ene 27 14:03 Programación toma medida de togas.pdf
+-rw-rw-r-- 1 frediignr frediignr  58K feb  8 14:29 FormatoDeMisiónOficial_RRHH_francisco_mendez.pdf
+-rw-rw-r-- 1 frediignr frediignr  64K mar  3 19:40 SISTEMA DE VENTAS..(1).xlsx
+-rw-rw-r-- 1 frediignr frediignr  69M feb  5 08:56 Insomnia.Core-2021.7.2 (1).deb
+-rw-rw-r-- 1 frediignr frediignr  71K abr 21 10:02 alertifyjs.zip
+-rw-rw-r-- 1 frediignr frediignr  81M feb  5 08:03 teams_1.4.00.26453_amd64.deb
+-rw-rw-r-- 1 frediignr frediignr  966 ene 27 07:20 mongodb_e20fbef0-7b26-446d-9d81-71728be6899f-20220127084616
+-rw-rw-r-- 1 frediignr frediignr  96K feb 11 11:13 Edit · src_Minsal_SiapsBundle_Admin_MntAreaModEstabAdmin.php · sis-180 · SIAP _ siaps · GitLab.html
+-rw-rw-r-- 1 frediignr frediignr 107K feb 25 10:02 imagen_carnet.jpeg
+-rw-rw-r-- 1 frediignr frediignr 111K abr 22 07:56 vitalets-bootstrap-datepicker-c7af15b.zip
+-rw-rw-r-- 1 frediignr frediignr 119K feb  3 13:13 9cccda1f-59a1-4b2f-b939-a7c611595f93.jpeg
+-rw-rw-r-- 1 frediignr frediignr 1.1M may  5 13:27 CV_BryanAmaya.pdf
+-rw-rw-r-- 1 frediignr frediignr 126K ene 26 12:58 HwPractica.pdf
+-rw-rw-r-- 1 frediignr frediignr 1.2M mar 22 09:05 3MejorasFarmaciaWeek25Marz.pdf
+-rw-rw-r-- 1 frediignr frediignr 136K feb 10 10:16 Seguro de Deuda MAPFRE 2020-.pdf
+-rw-rw-r-- 1 frediignr frediignr 136K feb 21 10:12 Seguro de Deuda MAPFRE 2020- (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 137K may  2 12:06 fundamentos-node-platzi-master.zip
+-rw-rw-r-- 1 frediignr frediignr 1.3M feb  8 13:24 curriculum_fredy_benitez-1.pdf
+-rw-rw-r-- 1 frediignr frediignr 142K feb  3 14:46 CURRICULUM ACTUALIZADO.pdf
+-rw-rw-r-- 1 frediignr frediignr 143K ene 25 14:25 libldap-2.4-2_2.4.57+dfsg-2ubuntu1_arm64.deb
+-rw-rw-r-- 1 frediignr frediignr 146K mar 14 08:50 tablas_movimiento.pdf
+-rw-rw-r-- 1 frediignr frediignr 146K mar 23 11:46 tablas_movimiento (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 150K feb  7 09:35 Oficina Virtual del Instituto Salvadoreño del Seguro Social.pdf
+-rw-rw-r-- 1 frediignr frediignr 152K ene 25 14:32 libldap-2.4-2_2.4.49+dfsg-2ubuntu1.8_amd64.deb
+-rw-rw-r-- 1 frediignr frediignr 154M ene 26 10:11 postman-9.10.1-linux-x64.tar.gz
+-rw-rw-r-- 1 frediignr frediignr 1.5M feb 24 08:06 codeigniter4-CodeIgniter4-v4.1.8-0-g70d881c.zip
+-rw-rw-r-- 1 frediignr frediignr 164K ene 28 08:54 docker-master.zip
+-rw-rw-r-- 1 frediignr frediignr 170K mar 28 14:32 VIDEOS Skechers Retail Training COMPLETO.pdf
+-rw-rw-r-- 1 frediignr frediignr 171K feb  9 12:11 20220208092748530.pdf
+-rw-rw-r-- 1 frediignr frediignr 179K ene 25 13:59 libldap-2.4-2_2.4.7-4_i386.deb
+-rw-rw-r-- 1 frediignr frediignr 1.7M mar 21 09:52 REPORTE DE DEVOLUCION ACTUAL 08-3-2022.docx.pdf
+-rw-rw-r-- 1 frediignr frediignr 197K mar 11 12:23 61634761-bd1c-4e00-b363-9d51744d8da8.jpeg
+-rw-rw-r-- 1 frediignr frediignr 2.0M ene 25 11:05 20304_oficina dtic bistro enero de 2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 2.0M mar 30 14:09 03 - JavaScript.pptx
+-rw-rw-r-- 1 frediignr frediignr 2.1M feb  1 15:07 20304_bistro enero de 2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 264K feb 18 15:26 ventas.sql
+-rw-rw-r-- 1 frediignr frediignr 275K feb 21 08:07 ventas(2).sql
+-rw-rw-r-- 1 frediignr frediignr 276K mar 17 07:39 Fredy Mauricio Benitez Orellana.pdf
+-rw-rw-r-- 1 frediignr frediignr 281K mar 16 13:03 COTIZACION EVENTOS SOCIALES, RESTAURANTE HACIENDA EL SARAPE.pdf
+-rw-rw-r-- 1 frediignr frediignr 308K abr  4 15:29 CONVOCATORIA-EXTERNA-MASIVA-2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 318K mar 15 12:43 COTIZACION EVENTOS SOCIALES, RESTAURANTE HACIENDA EL SARAPE-1.pdf
+-rw-rw-r-- 1 frediignr frediignr 318K mar 16 13:08 COTIZACION EVENTOS SOCIALES, RESTAURANTE HACIENDA EL SARAPE-1 (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 326K feb 21 15:23 ventas(1).sql
+-rw-rw-r-- 1 frediignr frediignr 3.2M may  3 19:15 Tusa.mp3
+-rw-rw-r-- 1 frediignr frediignr 3.3K abr 27 15:13 RecetasProgramadas_farmadmin_27_04_2022__04_13_32_PM.ods
+-rw-rw-r-- 1 frediignr frediignr 3.3M mar  1 10:51 20304_bistro febrero de 2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 3.6K mar  8 08:02 parameters.yml
+-rw-rw-r-- 1 frediignr frediignr 3.6K mar 23 09:31 Farmacias_Central__farmadmin_23_03_2022__10_31_35_AM.ods
+-rw-rw-r-- 1 frediignr frediignr 3.6M mar 23 10:40 20304 dtic hes marzo (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 3.6M may  3 19:14 Say_so.mp3
+-rw-rw-r-- 1 frediignr frediignr 3.6M may  3 19:15 Leviatating.mp3
+-rw-rw-r-- 1 frediignr frediignr 372K mar  7 13:42 hospitalizado.html
+-rw-rw-r-- 1 frediignr frediignr 3.7M may  3 09:10 20304_OFIC_DTIC_HOSPITAL_EL_SALVADOR.pdf
+-rw-rw-r-- 1 frediignr frediignr 3.8M abr  4 13:51 20304_dtic hes marzo.pdf
+-rw-rw-r-- 1 frediignr frediignr 407K ene 27 14:03 FORMATO DE SOLICITUD DE LICENCIAS .doc
+-rw-rw-r-- 1 frediignr frediignr 407K ene 27 14:05 FORMATO DE SOLICITUD DE LICENCIAS  (1).doc
+-rw-rw-r-- 1 frediignr frediignr 4.1K mar 12 12:09 BusquedaMedicamentos_2022-03-12(1).ods
+-rw-rw-r-- 1 frediignr frediignr 420K mar  2 07:32 ventas (1).sql
+-rw-rw-r-- 1 frediignr frediignr 426K feb  9 12:11 5103242217.pdf
+-rw-rw-r-- 1 frediignr frediignr 427K mar  4 15:21 ventas(3).sql
+-rw-rw-r-- 1 frediignr frediignr 4.4M may  3 19:14 California_love.mp3
+-rw-rw-r-- 1 frediignr frediignr 469K feb 22 10:29 Tarea_Nivelacion.pdf
+-rw-rw-r-- 1 frediignr frediignr 476K feb  9 13:22 Documentos escaneados.pdf
+-rw-rw-r-- 1 frediignr frediignr 495K ene 25 09:21 Git y GitHub.pdf
+-rw-rw-r-- 1 frediignr frediignr 4.9K mar 12 12:09 BusquedaMedicamentos_2022-03-12.ods
+-rw-rw-r-- 1 frediignr frediignr 507K ene 27 11:57 Scan27012022114321.pdf
+-rw-rw-r-- 1 frediignr frediignr 5.1K abr  5 13:57 sspejemplo.zip
+-rw-rw-r-- 1 frediignr frediignr 5.1M feb  6 08:21 anydesk_6.1.1-1_amd64.deb
+-rw-rw-r-- 1 frediignr frediignr 5.1M feb  6 08:27 anydesk_6.1.1-1_amd64 (1).deb
+-rw-rw-r-- 1 frediignr frediignr 5.1M feb  6 08:56 anydesk-6.1.1-amd64.tar.gz
+-rw-rw-r-- 1 frediignr frediignr 5.3K feb  9 12:09 superior.pdf
+-rw-rw-r-- 1 frediignr frediignr 5.3K feb 17 15:31 fredy.pdf
+-rw-rw-r-- 1 frediignr frediignr 5.4M mar  7 11:36 farmacia.hzacamil-error.log
+-rw-rw-r-- 1 frediignr frediignr 557K feb 10 11:42 FECHAS IMPORTANTES PROCESO DE GRADUACIÓN.pdf
+-rw-rw-r-- 1 frediignr frediignr 559K mar  1 10:55 203_direccion de tecnologia febrero de 2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 5.5M mar 30 12:00 ministeriodesaludtalentohumanosegundarondaconvocat.zip
+-rw-rw-r-- 1 frediignr frediignr 5.6K mar  7 09:14 diferencias_saldos.sql
+-rw-rw-r-- 1 frediignr frediignr 5.7K abr  7 09:48 calculadora.zip
+-rw-rw-r-- 1 frediignr frediignr 650K mar 14 15:49 2MejorasFarmaciaWeek19Marz.pdf
+-rw-rw-r-- 1 frediignr frediignr 655K abr 20 11:30 font-awesome-4.7.0.zip
+-rw-rw-r-- 1 frediignr frediignr 6.6M ene 25 11:17 CamScanner 01-25-2022 11.11.pdf
+-rw-rw-r-- 1 frediignr frediignr 6.6M feb  8 13:22 CamScanner 02-08-2022 13.18.pdf
+-rw-rw-r-- 1 frediignr frediignr 674K abr 21 09:43 watch (2).html
+-rw-rw-r-- 1 frediignr frediignr 674K feb  3 13:10 Wilber Mendez.pdf
+-rw-rw-r-- 1 frediignr frediignr 676K mar 23 10:38 203 DTIC MARZO (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 6.8K mar  4 14:07 índice.jpeg
+-rw-rw-r-- 1 frediignr frediignr 7.4K abr 25 14:20 Resumendecuentas.pdf
+-rw-rw-r-- 1 frediignr frediignr 754K feb  9 15:25 watch (1).html
+-rw-rw-r-- 1 frediignr frediignr 775K abr 26 13:13 PreTarea2.docx
+-rw-rw-r-- 1 frediignr frediignr 801K feb  3 14:15 CURRICULUM VITAE ISAAC CRUZ.pdf
+-rw-rw-r-- 1 frediignr frediignr 8.0M ene 25 14:35 libicu66_66.1-2ubuntu2_arm64.deb
+-rw-rw-r-- 1 frediignr frediignr 835K feb  3 14:20 CURRICULUM VITAE ISAAC CRUZ (1).pdf
+-rw-rw-r-- 1 frediignr frediignr 859K mar  2 11:02 FARMACIA-problemas-varios.pdf
+-rw-rw-r-- 1 frediignr frediignr 884K feb  4 07:45 watch.html
+-rw-rw-r-- 1 frediignr frediignr 905K abr 27 08:02 PreTarea3.docx
+-rw-rw-r-- 1 frediignr frediignr 919K may  5 16:15 CV2022.pdf
+-rw-rw-r-- 1 frediignr frediignr 922K feb 16 12:15 search.html
+-rw-rw-r-- 1 frediignr frediignr 941K feb  9 12:15 Tatiana Marilú Avilés García.pdf
+-rw-rw-r-- 1 frediignr frediignr 947K abr 25 07:53 framework-4.1.9 (1).zip
+-rw-rw-r-- 1 frediignr frediignr 947K feb 15 09:57 framework-4.1.8.zip
+-rw-rw-r-- 1 frediignr frediignr 947K mar  2 07:42 framework-4.1.9.zip
+-rwxrwxrwx 1 frediignr frediignr 581M abr  7 14:12 Anaconda3-2021.11-Linux-x86_64.sh
+total 1.3G
